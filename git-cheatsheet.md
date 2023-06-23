@@ -3,6 +3,15 @@ git switch <branchname> switch branches
 git branch list your branches
 git branch -a list all branches (local and remote)
 git branch -d <branchname> delete a branch
+git push -push content of branch to github
+
+Add commits in Terminal/Visual Studio
+Add text in Visual Studio
+command s to save
+git add . to add commit
+git commit -m "description" adds commit description
+git push -pushes to github
+then merge in github.com under "pull requests"
 
 Basic Shell commands
 command functionality
@@ -18,3 +27,5 @@ rm <filename> delete a file permanently (there is no trash bin to recover files!
 open . open the current folder in the finder
 cat <filename> prints the content of a specific file
 curl <url> prints the received content from the specified url. (try curl ipinfo.io)
+git log --oneline It creates a history of your last commits without more information
+
