@@ -20,3 +20,5 @@ open . open the current folder in the finder
 cat <filename> prints the content of a specific file
 curl <url> prints the received content from the specified url. (try curl ipinfo.io)
 git log --oneline It creates a history of your last commits without more information
+
+command s to save
